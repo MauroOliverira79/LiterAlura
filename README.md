@@ -7,7 +7,6 @@ No pricipio tive um pouco de dificuldade em fazer a logica mas revisanda a mater
 <h3> Tecnologias utilizadas: </h3>
 <p>
   Linguagem de programação Java.<BR> 
-  Java <br> API;<Br>
   Consumo da API;<BR>
   Análise da Resposta JSON;<BR>
   Inserção e consulta no banco de dadosPostgreSQL 15;<BR>
